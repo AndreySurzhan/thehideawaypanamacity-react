@@ -1,0 +1,14 @@
+/* [1] The container */
+.gellery-item {
+    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+  }
+  
+/* [2] Transition property for smooth transformation of images */
+.gellery-item > * {
+    transition: transform .5s ease;
+}
+
+/* [3] Finally, transforming the image when container gets hovered */
+.gellery-item:hover > * {
+    transform: scale(1.5);
+}

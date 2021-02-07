@@ -1,0 +1,21 @@
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery > * {
+    margin: 1rem;
+}
+
+.gallery-is-flex-grow > * {
+    flex-grow: 1;
+}
+
+@media only screen and (max-width: 769px){
+    .gallery > * {
+        margin: 0.5rem;
+    }
+}

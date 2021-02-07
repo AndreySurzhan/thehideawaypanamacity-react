@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.card > img {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    width: 70%;
+}
+
+.card > p {
+    margin: 1rem;
+}
+
+
+
+@media only screen and (max-width: 769px){
+    .card {
+        padding: 0.5rem;
+    }
+
+    .card > h3, h4 {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+}
