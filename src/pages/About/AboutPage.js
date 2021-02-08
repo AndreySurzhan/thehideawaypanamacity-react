@@ -5,16 +5,24 @@ import Section from '../../components/Section/Section';
 const card =
 {
     image: {
-        alt: "some test",
-        src: require("../../assets/images/1.jpg"),
+        alt: "Chuck's About Me",
+        src: require("../../assets/images/chuck_about.jpg"),
         style: {
             borderRadius: '50%',
             width: '20%'
         }
     },
-    title: "Title 1",
-    subtitle: "Subtitle 1",
-    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    style: {
+        maxWidth: "700px"
+    },
+    title: "Hi I'm Chuck",
+    text: `Hello, I am a property owner and long time builder. 
+    I came to Florida several years ago on a major condo project and simply never left. 
+    I enjoy the wildlife and nature this area has to offer; starting with the dolphins we often see daily from our homes. 
+    We are lightly populated residential area with all the activities close at hand, including great restaurants, parks, sugar sand beaches, shopping and so much  more. 
+    You'll enjoy being outdoors; paddle boarding & kayaks. I get a kick out of meeting the wonderful guests that come to experience "The Hideaway". 
+    The private homes on the waterfront property keep you with plenty of options as well as other units off site. 
+    Vacation and business traveler's from literally around the world find their peace here at "The Hideaway" Panama City, Florida.`
 };
 
 export default class AboutPage extends React.Component {
@@ -32,7 +40,8 @@ export default class AboutPage extends React.Component {
                         title={card.title}
                         subtitle={card.subtitle}
                         image={card.image}
-                        text={card.text}>
+                        text={card.text}
+                        style={card.style}>
                     </Card>
                 </Section>
             </div>

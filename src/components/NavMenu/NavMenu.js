@@ -39,10 +39,10 @@ export default function NavMenue(props) {
     return (
             <ul id="nav-menu" className={getManuClass(props.isVertical) + " " + getShowClass(props.isVertical, props.isShown)}>
                 <li>
-                    <NavLink className="link" to="/home">Home</NavLink>
+                    <NavLink to="/home">Home</NavLink>
                 </li>
                 <li>
-                    <NavLink className="link" to="/about">About</NavLink>
+                    <NavLink to="/about">About</NavLink>
                 </li>
                 {props.isVertical ? socialIcons() : null}
             </ul>

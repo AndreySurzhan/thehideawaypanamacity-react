@@ -39,7 +39,7 @@ export default function Nav(props) {
     <div>
       <nav className={`${stylesOnScroll}`}>
         <h1 id="logo">
-          <NavLink to="/home">Logo</NavLink>
+          <NavLink to="/home">The Hideaway Panamacity</NavLink>
         </h1>
         <Burger onClick={handleBurgerClick} isClicked={isBurgerClicked}></Burger>
         <NavMenue isShown={isNavMenuOpened} isVertical={isTabletOrMobile}></NavMenue>

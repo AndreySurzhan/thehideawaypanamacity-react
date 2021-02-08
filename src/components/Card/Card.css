@@ -5,6 +5,7 @@
     margin: 1rem;
     border-radius: 0.5rem;
     padding: 1rem;
+    background-color: #fff;
 }
 
 .card > img {
@@ -16,6 +17,7 @@
 
 .card > p {
     margin: 1rem;
+    text-align: center;
 }
 
 

@@ -1,4 +1,40 @@
 header {
-    background-color: #00796B;
-    height: 30vh;
+    background-color: #02537e;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-content: flex-start;
+    align-items: flex-start;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    background-image: url("../../assets/images/header.jpg");
+    background-repeat: no-repeat; 
+    background-position: right;
+}
+
+.header-title {
+    width: 40%;
+}
+
+header h2 {
+    margin-top: 3.5rem;
+    margin-bottom: 0;
+}
+
+header h2, header p {
+    color: #fff;
+}
+
+@media only screen and (max-width: 769px){
+    header {
+        padding: 1rem;
+        padding-top: 0;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+    .header-title {
+        width: 100%
+    }
 }

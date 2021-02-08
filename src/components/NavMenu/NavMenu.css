@@ -10,10 +10,10 @@
 }
 
 #nav-menu > li {    
-    margin: 0.5rem 1rem;
+    padding: 0.5rem 1rem;
 }
 
-#nav-menu  > li > a {
+#nav-menu > li > a {
 	text-decoration: none;
 	text-transform: uppercase;
 	text-align: center;
@@ -22,6 +22,10 @@
 	text-align: center;
 	text-transform: uppercase;
     color: #FFFFFF;
+}
+
+#nav-menu > li:active {
+    background-color: #00000024;
 }
 
 #nav-menu.nav-menu-horizontal {     
