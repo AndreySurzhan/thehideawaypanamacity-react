@@ -4,7 +4,8 @@ import Shell from './components/Shell/Shell';
 import HomePage from './pages/Home/HomePage';
 import AboutPage from './pages/About/AboutPage';
 
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+// import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
   return (
