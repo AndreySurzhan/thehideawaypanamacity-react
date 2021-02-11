@@ -11,6 +11,14 @@ export default function Header() {
 
   return (
     <header className="header">
+      
+      {/* <div id="video-header">
+        <iframe title="header video"
+          src="https://www.youtube.com/embed/GfgHdI0XPWE?controls=0&showinfo=0&rel=0&autoplay=1&mute=1&playlist=GfgHdI0XPWE&loop=1" 
+          frameborder="0">
+        </iframe>
+      </div> */}
+
       <div className="header-title">
         <h2>Your Getaway Panama City, Florida</h2>      
         <p>
@@ -20,7 +28,7 @@ export default function Header() {
           Whether you are on vacation or business, we are here to serve you.
         </p>
       </div>
-      <Button url="https://www.youtube.com/watch?v=GfgHdI0XPWE"
+      <Button url="https://youtu.be/GfgHdI0XPWE"
         style={{ backgroundColor: "#f44336", color: "#fff" }}>
         {getPlayIcon()}
         your hideaway

@@ -1,7 +1,14 @@
 footer {
     display: flex;
+    flex-direction: column;
     text-align: center;
     padding: 1rem;
     justify-content: center;
+    align-items: center;
     color: #757575;
+}
+
+#google-map-container {
+    width: 50vh;
+    height: 50vh;
 }
