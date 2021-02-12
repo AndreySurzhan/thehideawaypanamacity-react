@@ -25,9 +25,9 @@ export default class MyCarousel extends React.Component {
           value={this.state.value}
           slides={this.state.slides}
           onChange={this.onchange}
-          infinite={true}
-          autoPlay={2000}
-          animationSpeed={1000}
+          infinite={this.props.autoPlay ? true : false}
+          autoPlay={this.props.autoPlay}
+          animationSpeed={this.props.autoPlay ? 1000 : 500}
         />
         <Dots 
           value={this.state.value} 

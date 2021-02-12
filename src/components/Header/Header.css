@@ -1,18 +1,3 @@
-/* #video-header {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    min-height: 50vh;
-    pointer-events: none;
-    z-index: -99;
-  }
-
-  #video-header, #video-header iframe {
-    width: 100%;
-    min-height: 50vh;
-  } */
-  
 header {
     background-color: #02537e;
     min-height: 50vh;
@@ -23,7 +8,6 @@ header {
     align-items: flex-start;
     padding-left: 5rem;
     padding-right: 5rem;
-    /* background: rgba(0, 0, 0, 0.5); */
     background-image: url("../../assets/images/header.jpg");
     background-repeat: no-repeat; 
     background-position: right;

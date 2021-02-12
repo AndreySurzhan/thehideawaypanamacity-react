@@ -15,6 +15,10 @@ nav {
     padding-bottom: 0.5rem;
 }
 
+nav > h1 {
+    color: #fff;
+}
+
 nav.full-opacity {
     background: #02537e;
 }
