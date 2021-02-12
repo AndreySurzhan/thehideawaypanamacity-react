@@ -13,7 +13,8 @@ const card =
         }
     },
     style: {
-        maxWidth: "700px"
+        flexDirection: "column",
+        alignItems: "center"
     },
     title: "Hi I'm Chuck",
     text: `Hello, I am a property owner and long time builder. 
