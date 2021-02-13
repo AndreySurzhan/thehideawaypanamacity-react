@@ -1,0 +1,9 @@
+.my-calendar {
+    margin: 1rem;
+}
+
+@media only screen and (max-width: 400px){ 
+    .my-calendar {
+        font-size: 0.6rem;
+    }
+}

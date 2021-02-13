@@ -1,14 +1,7 @@
 import React from 'react';
-import Button from '../../components/Button/Button';
 import './Header.css';
 
 export default function Header() {
-  function getPlayIcon() {
-    return (<img alt="play button icon"
-    src={require("../../assets/icons/play-button.png")}
-    width={20}></img>)
-  }
-
   return (
     <header className="header">
       <div className="header-title">

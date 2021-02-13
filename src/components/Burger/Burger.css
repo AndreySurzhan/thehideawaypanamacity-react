@@ -1,6 +1,5 @@
 #burger {
     position: fixed;
-    top: 1rem;
     right: 1rem;
     display: none;
     flex-direction: column;

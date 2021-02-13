@@ -1,7 +1,6 @@
 import React from 'react';
 import Button from '../../components/Button/Button';
 import Card from '../../components/Card/Card';
-import Gallery from '../../components/Gallery/Gallery';
 import { MyCalendar } from '../../components/MyCalendar/MyCalendar';
 import Section from '../../components/Section/Section'
 import galleryCards from '../../assets/json/listings.json'
