@@ -9,7 +9,8 @@ const card =
         src: require("../../assets/images/chuck_about.jpg"),
         style: {
             borderRadius: '50%',
-            width: '20%'
+            width: '20%',
+            margin: '1rem'
         }
     },
     style: {
