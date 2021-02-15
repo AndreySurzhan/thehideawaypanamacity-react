@@ -13,7 +13,7 @@ export default class HomePage extends React.Component {
     setAdditionalImageProps = listing => image => (
         {
             ...image,
-            src: require(`../../assets/images/${image.src}`),
+            src: require(`../../assets/images/${listing.imageBaseUrl || ""}${image.src}`),
             alt: listing.title,
             style: {
                 height: "450px"

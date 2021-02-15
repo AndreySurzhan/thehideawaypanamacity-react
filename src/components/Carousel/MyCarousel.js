@@ -1,39 +1,37 @@
 import React from 'react'
-import Carousel, { Dots } from '@brainhubeu/react-carousel';
+import Carousel, {arrowsPlugin } from '@brainhubeu/react-carousel';
 import '@brainhubeu/react-carousel/lib/style.css';
+import Button from '../../components/Button/Button';
 import './MyCarousel.css';
 
-export default class MyCarousel extends React.Component {
-  constructor(props) {
-    super(props)
-    
-    this.state = {
-      value: 0,
-      slides: props.children,
-    }
-    this.onchange = this.onchange.bind(this);
+export default function MyCarousel(props) {
+  const arrorStyle = {
+    padding: "0.5rem",
+    borderRadius: "50%",
+    margin: "1rem",
+    width: "15px",
+    boxSizing: "content-box"
   }
 
-  onchange(value) {
-    this.setState({ value });
-  }
-
-  render() {
-    return (
-      <div className="carousel">
-        <Carousel
-          value={this.state.value}
-          slides={this.state.slides}
-          onChange={this.onchange}
-          infinite={this.props.autoPlay ? true : false}
-          autoPlay={this.props.autoPlay}
-          animationSpeed={this.props.autoPlay ? 1000 : 500}
-        />
-        <Dots 
-          value={this.state.value} 
-          onChange={this.onchange} 
-          number={this.state.slides.length} />
-      </div>
-    );
-  }
+  return (
+    <div className="carousel">
+      <Carousel
+        plugins={[
+          'clickToChange',
+          {
+            resolve: arrowsPlugin,
+            options: {
+              arrowLeft: (<Button style={arrorStyle}>{"<<"}</Button>),
+              arrowLeftDisabled: (<Button disabled style={arrorStyle}>{"<"}</Button>),
+              arrowRight: (<Button style={arrorStyle}>{">>"}</Button>),
+              arrowRightDisabled: (<Button disabled style={arrorStyle}>{">"}</Button>),
+              addArrowClickHandler: true,
+            }
+          }
+        ]}
+      >
+        {props.children}
+      </Carousel>
+    </div>
+  );
 }

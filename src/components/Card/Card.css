@@ -51,6 +51,11 @@
 }
 
 @media only screen and (max-width: 769px){
+
+    .card-carousel {
+        margin: 0.5rem;
+    }
+
     .card img {
         width: 100%;
         height: auto !important;

@@ -6,7 +6,8 @@ export default function Button(props) {
 
   return (
       props.url 
-      ? <a className="button ripple elevation-4" 
+      ? <a disabled={props.disabled} 
+            className="button ripple elevation-4" 
             target="_blank" 
             rel="noopener noreferrer"
             href={props.url}
@@ -14,7 +15,8 @@ export default function Button(props) {
             onClick={props.onClick}>
           {props.children}
         </a> 
-      : <button className="button ripple elevation-4"
+      : <button disabled={props.disabled}
+                className="button ripple elevation-4"
                 style={props.style}
                 onClick={props.onClick}>
           {props.children}
