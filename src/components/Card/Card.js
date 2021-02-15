@@ -1,10 +1,9 @@
-import React from 'react';
+import React from 'react'
 import './Card.css';
 import '../../shared/styles/elevation.css';
 import MyCarousel from '../Carousel/MyCarousel';
 
 export default function Card(props) {
-
   function getPropsClassNames(classNames) {
     return !classNames
       ? ""
