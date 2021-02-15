@@ -13,15 +13,18 @@ export default function Card(props) {
         .join(" ");
   }
 
-  function getImage(image ,key) {
+  function getImage(image, key) {
     return (
-      <img
-        key={key}
-        style={image.style ?? {}}
-        className={getPropsClassNames(image.className)}
-        src={image.src}
-        alt={image.alt}>
-      </img>
+      <div>
+        <img
+          key={key}
+          style={image.style ?? {}}
+          className={getPropsClassNames(image.className)}
+          src={image.src}
+          alt={image.alt}>
+        </img>
+        {image.description ? <h4 className="legend">{image.description}</h4> : null}
+      </div>
     );
   }
 

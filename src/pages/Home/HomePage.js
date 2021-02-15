@@ -14,10 +14,7 @@ export default class HomePage extends React.Component {
         {
             ...image,
             src: require(`../../assets/images/${listing.imageBaseUrl || ""}${image.src}`),
-            alt: listing.title,
-            style: {
-                height: "450px"
-            }
+            alt: listing.title
         }
     );
 

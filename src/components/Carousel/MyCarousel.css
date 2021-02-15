@@ -1,13 +1,4 @@
-.carousel {
-    display: flex;
-    justify-content: center;
-    flex-flow: row;
-    align-items: center;
-    text-align: center;
-}
-
-@media only screen and (max-width: 769px){
-    .button {
-        margin: 0.5rem !important;
-    }
+.legend {
+    bottom: 0.5rem !important;
+    border-radius: 0 !important;
 }
