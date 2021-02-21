@@ -1,446 +1,893 @@
 [
-    {
-      "title": "THE BANANA",
-      "subtitle": "This vacation rental gives you an opportunity to enjoy awesome water views from the common areas",
-      "text": "The Banana is 800 square foot private home with kitchen, 1 bedrooms and 1 bath. Enter into this peaceful tropical feeling space from your private entry on ground level.\n\n$110 per night +$60 cleaning fee and 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/37595139?source_impression_id=p3_1572445318_2jLvW1W4OCP5ktj6",
-      "imageBaseUrl": "listings/banana/",
-      "images": [
-        {
-          "src": "1.jpg",
-          "description": "The Banana. patio overlooks the Bay!"
-        },
-        {
-          "src": "2.jpg",
-          "description": "Private entry door to the Banana home"
-        },
-        {
-          "src": "3.jpg",
-          "description": "Luxury King Bed"
-        },
-        {
-          "src": "4.jpg",
-          "description": "Kitchen , another view"
-        },
-        {
-          "src": "5.jpg",
-          "description": "Kitchen"
-        },
-        {
-          "src": "6.jpg",
-          "description": "This bedroom has a table for 2, Plus a Full Brand NEW kitchen"
-        },
-        {
-          "src": "7.jpg",
-          "description": "New kitchen added with full refrig, stove, and microwave"
-        },
-        {
-          "src": "8.jpg",
-          "description": "Roomy full bath with separate sinks"
-        },
-        {
-          "src": "9.jpg",
-          "description": "Full bath with separate sinks"
-        },
-        {
-          "src": "10.jpg",
-          "description": "The Banana forest just out your front door"
-        },
-        {
-          "src": "11.jpg",
-          "description": "Looking into sitting area from outside patio"
-        },
-        {
-          "src": "12.jpg",
-          "description": "Tropical Banana tree view right out your window"
-        },
-        {
-          "src": "13.jpg",
-          "description": "Both The Banana and The Plantation share a great yard space and wonderful views of the lagoon"
-        },
-        {
-          "src": "14.jpg",
-          "description": "Your own stone patio to relax and look out over the yard and water views"
-        },
-        {
-          "src": "15.jpg",
-          "description": "Your own stone patio to relax and look out over the yard and water views"
-        },
-        {
-          "src": "16.jpg",
-          "description": "1 of 2 decks to enjoy"
-        },
-        {
-          "src": "17.jpeg",
-          "description": ""
-        },
-        {
-          "src": "18.jpeg",
-          "description": "Beautiful sunsets from the Hideaway property"
-        },
-        {
-          "src": "19.jpeg",
-          "description": ""
-        },
-        {
-          "src": "20.jpeg",
-          "description": ""
-        },
-        {
-          "src": "21.jpg",
-          "description": "Enjoy boating and fishing steps away from your door"
-        },
-        {
-          "src": "22.jpeg",
-          "description": ""
-        },
-        {
-          "src": "23.jpg",
-          "description": ""
-        },
-        {
-          "src": "24.jpg",
-          "description": "Our new Hideaway Greenhouse open to for our guests enjoyment and solitude"
-        }
-      ]
-    },
-    {
-      "title": "THE PLANTATION",
-      "subtitle": "This vacation rental gives you an opportunity to enjoy awesome water views from the common areas",
-      "text": "The Plantation is a 1500 + square foot private home with kitchen, 2 bedrooms, queen sleeper sofa, and 1 large bath. Reading room, spacious living room with 65″ smart TV. Families welcome.\n\n$135 per night + $75 cleaning fee and 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/24749368?source_impression_id=p3_1573063212_c15yINz1HXz9It7o",
-      "imageBaseUrl": "listings/plantation/",
-      "images": [
-        {
-          "src": "1.jpg",
-          "description": "Private entry into the Plantation, park in front of home"
-        },
-        {
-          "src": "2.jpg",
-          "description": "Waterfront home - ultimate getaway experience"
-        },
-        {
-          "src": "3.jpg",
-          "description": "Backyard view of the Plantation which faces the water - Just steps away"
-        },
-        {
-          "src": "4.jpg",
-          "description": "The Hideaway property has two new decks and boat docks for all to enjoy"
-        },
-        {
-          "src": "5.jpg",
-          "description": "Comfy new queen Sofa sleeper in living area with big TV"
-        },
-        {
-          "src": "6.jpg",
-          "description": "Sunset views from your living room"
-        },
-        {
-          "src": "7.jpg",
-          "description": "Dining area to the right foreground"
-        },
-        {
-          "src": "8.jpg",
-          "description": "Roomy kitchen with Island Breakfast area"
-        },
-        {
-          "src": "9.jpg",
-          "description": "Seating area with comfy recliners facing the fireplace and the water views from new French door. Walkout onto your new deck too"
-        },
-        {
-          "src": "10.jpg",
-          "description": "Open concept - perfect for the whole family or group"
-        },
-        {
-          "src": "11.jpg",
-          "description": "Full bath"
-        },
-        {
-          "src": "12.jpg",
-          "description": "View from hallway into hall bathroom. Walk in Shower, nice big sink area"
-        },
-        {
-          "src": "13.jpg",
-          "description": "2nd bed room with queen"
-        },
-        {
-          "src": "14.jpg",
-          "description": "2nd bed room different view"
-        },
-        {
-          "src": "15.jpg",
-          "description": "1 of 2 Bedrooms with water views and luxury queen bed"
-        },
-        {
-          "src": "16.jpg",
-          "description": "Big TV, games, books to enjoy in LR"
-        },
-        {
-          "src": "17.jpg",
-          "description": "front bedroom with big closet"
-        },
-        {
-          "src": "18.jpeg",
-          "description": ""
-        },
-        {
-          "src": "19.jpg",
-          "description": "Paddle boarding right out front"
-        },
-        {
-          "src": "20.jpeg",
-          "description": ""
-        },
-        {
-          "src": "21.jpg",
-          "description": "Yes these are real and in the front yard"
-        },
-        {
-          "src": "22.jpg",
-          "description": "Enclosed front porch going into the home"
-        },
-        {
-          "src": "23.jpg",
-          "description": "Just follow the signs"
-        },
-        {
-          "src": "24.jpg",
-          "description": "Find this and your almost there"
-        },
-        {
-          "src": "25.jpg",
-          "description": "One of 2 new decks with spectacular bay views! Bring you boat along and be steps away from your door"
-        },
-        {
-          "src": "26.jpeg",
-          "description": ""
-        },
-        {
-          "src": "27.jpg",
-          "description": "Watch out for dolphins from our decks"
-        },
-        {
-          "src": "28.jpg",
-          "description": "Water view from inside the greenhouse"
-        },
-        {
-          "src": "29.jpg",
-          "description": "A perfect location for family fun and parking your boat"
-        },
-        {
-          "src": "30.jpeg",
-          "description": ""
-        },
-        {
-          "src": "31.jpg",
-          "description": "Drive up to the back door"
-        },
-        {
-          "src": "32.jpg",
-          "description": "Our new Hideaway Greenhouse"
-        },
-        {
-          "src": "33.jpeg",
-          "description": ""
-        }
-      ]
-    },
-    { "title": "THE BUNGALOW",
-      "subtitle": "Beautiful bayou sunsets can be seen from the large living room of this ground floor private bungalow",
-      "text": "This 900 sq. ft. bungalow 1 bedroom with a queen bed,1 bathroom, furnished kitchen and breakfast bar.Access to a covered deck with grill.\n\n$120 per night +$75 cleaning fee and 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/19863678?source_impression_id=p3_1572451848_dxMyHscNdoevrio5",
-      "imageBaseUrl": "listings/bungalow/",
-      "images": [
-        {
-          "src": "1.jpg",
-          "description": "The Bungalow, lower level right side of waterfront home"
-        },
-        {
-          "src": "2.jpg",
-          "description": "Front entryway to Bungalow"
-        },
-        {
-          "src": "3.jpg",
-          "description": "Just inside front door of Bungalow"
-        },
-        {
-          "src": "4.jpg",
-          "description": "Full kitchen with granite counter bar"
-        },
-        {
-          "src": "5.jpg",
-          "description": "Living area with large TV. Room has views to the water"
-        },
-        {
-          "src": "6.jpg",
-          "description": "Cozy bedroom"
-        },
-        {
-          "src": "7.jpg",
-          "description": "Relaxing bedroom with comfy queen mattress"
-        },
-        {
-          "src": "8.jpg",
-          "description": "Full bath"
-        },
-        {
-          "src": "9.jpg",
-          "description": "Bath"
-        },
-        {
-          "src": "10.jpg",
-          "description": "Beautiful tropical views outside from this dining area"
-        },
-        {
-          "src": "11.jpg",
-          "description": "Back porch of Bungalow with views out to the lagoon/bay"
-        },
-        {
-          "src": "12.jpg",
-          "description": "Enjoy your private covered porch furniture with a view included"
-        },
-        {
-          "src": "13.jpg",
-          "description": "Comfy outside furniture by your back door"
-        },
-        {
-          "src": "14.jpg",
-          "description": ""
-        },
-        {
-          "src": "15.jpg",
-          "description": "Views of lagoon & bay right out your French doors"
-        },
-        {
-          "src": "16.jpg",
-          "description": "Just follow the signs to our apt homes"
-        },
-        {
-          "src": "17.jpg",
-          "description": ""
-        },
-        {
-          "src": "18.jpg",
-          "description": "Short drive to the beach"
-        },
-        {
-          "src": "19.jpg",
-          "description": ""
-        },
-        {
-          "src": "20.jpg",
-          "description": "New in 2020 - our Greenhouse for all to enjoy"
-        },
-        {
-          "src": "21.jpg",
-          "description": "We're kid and dog friendly"
-        },
-        {
-          "src": "22.jpg",
-          "description": ""
-        },
-        {
-          "src": "23.jpg",
-          "description": "Relax on our new waterfront decks and tie your boat up to it for free"
-        },
-        {
-          "src": "24.jpg",
-          "description": "Families love our location to everything"
-        },
-        {
-          "src": "25.jpg",
-          "description": "Free use of Paddle boards for our guests"
-        },
-        {
-          "src": "26.jpg",
-          "description": "Hideaway Greenhouse - Sit, sip and relax. Enjoy wonderful views"
-        },
-        {
-          "src": "27.jpg",
-          "description": ""
-        },
-        {
-          "src": "28.jpg",
-          "description": "View from dock towards Bungalow (far right corner of bldg.)"
-        },
-        {
-          "src": "29.jpg",
-          "description": "Sugar sand beaches a short drive away"
-        },
-        {
-          "src": "30.jpg",
-          "description": "1/2 mile to Hathaway Bridge which connects to Panama City Beach"
-        }
-      ]    
-    },
-    {
-      "images": [
-        {
-          "src": "1.jpg"
-        },
-        {
-          "src": "1.jpg"
-        }
-      ],
-      "title": "THE BIRD NEST",
-      "subtitle": "Enjoy the bird’s eye view from this 1300 sq. ft. 2nd floor apartment",
-      "text": "Water views and majestic old oaks nearby give you the feel of being in a tree house.  1 bedroom, queen, 1 bathroom, fully furnished kitchen, dining area, and TV viewing area.A new walkout deck to grill and relax.\n\n$110 per night + $65 cleaning fee and 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/26119112?source_impression_id=p3_1572452000_9FcDNfXltIKSPoZj"
-    },
-    {
-      "images": [
-        {
-          "src": "1.jpg"
-        },
-        {
-          "src": "1.jpg"
-        }
-      ],
-      "title": "THE WINE CELLAR",
-      "subtitle": "This quiet, cosy apartment has its own private entrance",
-      "text": "This  650 sq. ft. features comfy bedroom, bathroom and full kitchen.You are encouraged to relax on our new decks withbay views and frequent dolphin sightings.\n\n$85 per night + $55 cleaning fee and 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/26467591?source_impression_id=p3_1572452305_D0ISkaJQ2X2Enwg%2B"
-    },
-    {
-      "images": [
-        {
-          "src": "1.jpg"
-        },
-        {
-          "src": "1.jpg"
-        }
-      ],
-      "title": "THE PELICAN’S NEST",
-      "subtitle": "This charming studio is our newest addition",
-      "text": "1 queen, 1 bathroom, kitchenette with cooktop and microwave.\nYou will enjoy the  large picture window facing the water and smart tv.A walkout to your new deck to grill and relax.\n\n$75 per night +$60 cleaning fee and a 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/33831042?source_impression_id=p3_1572452584_fGJZHxXjKbdKG7Uj"
-    },
-    {
-      "images": [
-        {
-          "src": "1.jpg"
-        },
-        {
-          "src": "1.jpg"
-        }
-      ],
-      "title": "THE MAGNOLIA",
-      "subtitle": "Located in Downtown Historic old Panama City",
-      "text": "Just bicycling distance from Panama City Marina to catch the sunset and marine traffic.5 minutes from historical St Andrew’s shops, restaurants and outdoor activities.  15 minutes from Panama City Beach. 4 guests, 1 bedroom, 1 bath.\n\n$85 per night + $65 cleaning fee and 5% Fl visitor tax.",
-      "airBnbLink": "https://www.airbnb.com/rooms/24578786?source_impression_id=p3_1572454277_JJkC%2FzTJ8TmNX3IK"
-    },
-    {
-      "images": [
-        {
-          "src": "1.jpg"
-        },
-        {
-          "src": "1.jpg"
-        }
-      ],
-      "title": "THE HERON COTTAGE",
-      "subtitle": "Cozy, cheery Florida cottage home newly remodeled",
-      "text": "Fenced backyard.Walking distance from our Hideaway resort property.  2 queen bedrooms, plus a queen sleeper sofa, 2 bathrooms, a fully furnished kitchen, dining area.Enjoy views from 2 waterfront decks just a short walk from this home.\n\n$120 per night + $75 cleaning fee and 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/42306671?source_impression_id=p3_1593466028_3S28xtic968txM7e"
-    }
-  ]
+  {
+    "title": "THE BANANA",
+    "subtitle": "This vacation rental gives you an opportunity to enjoy awesome water views from the common areas",
+    "text": "The Banana is 800 square foot private home with kitchen, 1 bedrooms and 1 bath. Enter into this peaceful tropical feeling space from your private entry on ground level.\n\n$110 per night +$60 cleaning fee and 5% Fl visitor tax",
+    "airBnbLink": "https://www.airbnb.com/rooms/37595139?source_impression_id=p3_1572445318_2jLvW1W4OCP5ktj6",
+    "imageBaseUrl": "listings/banana/",
+    "images": [
+      {
+        "src": "1.jpg",
+        "description": "The Banana. patio overlooks the Bay!"
+      },
+      {
+        "src": "2.jpg",
+        "description": "Private entry door to the Banana home"
+      },
+      {
+        "src": "3.jpg",
+        "description": "Luxury King Bed"
+      },
+      {
+        "src": "4.jpg",
+        "description": "Kitchen , another view"
+      },
+      {
+        "src": "5.jpg",
+        "description": "Kitchen"
+      },
+      {
+        "src": "6.jpg",
+        "description": "This bedroom has a table for 2, Plus a Full Brand NEW kitchen"
+      },
+      {
+        "src": "7.jpg",
+        "description": "New kitchen added with full refrig, stove, and microwave"
+      },
+      {
+        "src": "8.jpg",
+        "description": "Roomy full bath with separate sinks"
+      },
+      {
+        "src": "9.jpg",
+        "description": "Full bath with separate sinks"
+      },
+      {
+        "src": "10.jpg",
+        "description": "The Banana forest just out your front door"
+      },
+      {
+        "src": "11.jpg",
+        "description": "Looking into sitting area from outside patio"
+      },
+      {
+        "src": "12.jpg",
+        "description": "Tropical Banana tree view right out your window"
+      },
+      {
+        "src": "13.jpg",
+        "description": "Both The Banana and The Plantation share a great yard space and wonderful views of the lagoon"
+      },
+      {
+        "src": "14.jpg",
+        "description": "Your own stone patio to relax and look out over the yard and water views"
+      },
+      {
+        "src": "15.jpg",
+        "description": "Your own stone patio to relax and look out over the yard and water views"
+      },
+      {
+        "src": "16.jpg",
+        "description": "1 of 2 decks to enjoy"
+      },
+      {
+        "src": "17.jpeg",
+        "description": ""
+      },
+      {
+        "src": "18.jpeg",
+        "description": "Beautiful sunsets from the Hideaway property"
+      },
+      {
+        "src": "19.jpeg",
+        "description": ""
+      },
+      {
+        "src": "20.jpeg",
+        "description": ""
+      },
+      {
+        "src": "21.jpg",
+        "description": "Enjoy boating and fishing steps away from your door"
+      },
+      {
+        "src": "22.jpeg",
+        "description": ""
+      },
+      {
+        "src": "23.jpg",
+        "description": ""
+      },
+      {
+        "src": "24.jpg",
+        "description": "Our new Hideaway Greenhouse open to for our guests enjoyment and solitude"
+      }
+    ]
+  },
+  {
+    "title": "THE PLANTATION",
+    "subtitle": "This vacation rental gives you an opportunity to enjoy awesome water views from the common areas",
+    "text": "The Plantation is a 1500 + square foot private home with kitchen, 2 bedrooms, queen sleeper sofa, and 1 large bath. Reading room, spacious living room with 65″ smart TV. Families welcome.\n\n$135 per night + $75 cleaning fee and 5% Fl visitor tax",
+    "airBnbLink": "https://www.airbnb.com/rooms/24749368?source_impression_id=p3_1573063212_c15yINz1HXz9It7o",
+    "imageBaseUrl": "listings/plantation/",
+    "images": [
+      {
+        "src": "1.jpg",
+        "description": "Private entry into the Plantation, park in front of home"
+      },
+      {
+        "src": "2.jpg",
+        "description": "Waterfront home - ultimate getaway experience"
+      },
+      {
+        "src": "3.jpg",
+        "description": "Backyard view of the Plantation which faces the water - Just steps away"
+      },
+      {
+        "src": "4.jpg",
+        "description": "The Hideaway property has two new decks and boat docks for all to enjoy"
+      },
+      {
+        "src": "5.jpg",
+        "description": "Comfy new queen Sofa sleeper in living area with big TV"
+      },
+      {
+        "src": "6.jpg",
+        "description": "Sunset views from your living room"
+      },
+      {
+        "src": "7.jpg",
+        "description": "Dining area to the right foreground"
+      },
+      {
+        "src": "8.jpg",
+        "description": "Roomy kitchen with Island Breakfast area"
+      },
+      {
+        "src": "9.jpg",
+        "description": "Seating area with comfy recliners facing the fireplace and the water views from new French door. Walkout onto your new deck too"
+      },
+      {
+        "src": "10.jpg",
+        "description": "Open concept - perfect for the whole family or group"
+      },
+      {
+        "src": "11.jpg",
+        "description": "Full bath"
+      },
+      {
+        "src": "12.jpg",
+        "description": "View from hallway into hall bathroom. Walk in Shower, nice big sink area"
+      },
+      {
+        "src": "13.jpg",
+        "description": "2nd bed room with queen"
+      },
+      {
+        "src": "14.jpg",
+        "description": "2nd bed room different view"
+      },
+      {
+        "src": "15.jpg",
+        "description": "1 of 2 Bedrooms with water views and luxury queen bed"
+      },
+      {
+        "src": "16.jpg",
+        "description": "Big TV, games, books to enjoy in LR"
+      },
+      {
+        "src": "17.jpg",
+        "description": "front bedroom with big closet"
+      },
+      {
+        "src": "18.jpeg",
+        "description": ""
+      },
+      {
+        "src": "19.jpg",
+        "description": "Paddle boarding right out front"
+      },
+      {
+        "src": "20.jpeg",
+        "description": ""
+      },
+      {
+        "src": "21.jpg",
+        "description": "Yes these are real and in the front yard"
+      },
+      {
+        "src": "22.jpg",
+        "description": "Enclosed front porch going into the home"
+      },
+      {
+        "src": "23.jpg",
+        "description": "Just follow the signs"
+      },
+      {
+        "src": "24.jpg",
+        "description": "Find this and your almost there"
+      },
+      {
+        "src": "25.jpg",
+        "description": "One of 2 new decks with spectacular bay views! Bring you boat along and be steps away from your door"
+      },
+      {
+        "src": "26.jpeg",
+        "description": ""
+      },
+      {
+        "src": "27.jpg",
+        "description": "Watch out for dolphins from our decks"
+      },
+      {
+        "src": "28.jpg",
+        "description": "Water view from inside the greenhouse"
+      },
+      {
+        "src": "29.jpg",
+        "description": "A perfect location for family fun and parking your boat"
+      },
+      {
+        "src": "30.jpeg",
+        "description": ""
+      },
+      {
+        "src": "31.jpg",
+        "description": "Drive up to the back door"
+      },
+      {
+        "src": "32.jpg",
+        "description": "Our new Hideaway Greenhouse"
+      },
+      {
+        "src": "33.jpeg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "THE BUNGALOW",
+    "subtitle": "Beautiful bayou sunsets can be seen from the large living room of this ground floor private bungalow",
+    "text": "This 900 sq. ft. bungalow 1 bedroom with a queen bed,1 bathroom, furnished kitchen and breakfast bar.Access to a covered deck with grill.\n\n$120 per night +$75 cleaning fee and 5% Fl visitor tax",
+    "airBnbLink": "https://www.airbnb.com/rooms/19863678?source_impression_id=p3_1572451848_dxMyHscNdoevrio5",
+    "imageBaseUrl": "listings/bungalow/",
+    "images": [
+      {
+        "src": "1.jpg",
+        "description": "The Bungalow, lower level right side of waterfront home"
+      },
+      {
+        "src": "2.jpg",
+        "description": "Front entryway to Bungalow"
+      },
+      {
+        "src": "3.jpg",
+        "description": "Just inside front door of Bungalow"
+      },
+      {
+        "src": "4.jpg",
+        "description": "Full kitchen with granite counter bar"
+      },
+      {
+        "src": "5.jpg",
+        "description": "Living area with large TV. Room has views to the water"
+      },
+      {
+        "src": "6.jpg",
+        "description": "Cozy bedroom"
+      },
+      {
+        "src": "7.jpg",
+        "description": "Relaxing bedroom with comfy queen mattress"
+      },
+      {
+        "src": "8.jpg",
+        "description": "Full bath"
+      },
+      {
+        "src": "9.jpg",
+        "description": "Bath"
+      },
+      {
+        "src": "10.jpg",
+        "description": "Beautiful tropical views outside from this dining area"
+      },
+      {
+        "src": "11.jpg",
+        "description": "Back porch of Bungalow with views out to the lagoon/bay"
+      },
+      {
+        "src": "12.jpg",
+        "description": "Enjoy your private covered porch furniture with a view included"
+      },
+      {
+        "src": "13.jpg",
+        "description": "Comfy outside furniture by your back door"
+      },
+      {
+        "src": "14.jpg",
+        "description": ""
+      },
+      {
+        "src": "15.jpg",
+        "description": "Views of lagoon & bay right out your French doors"
+      },
+      {
+        "src": "16.jpg",
+        "description": "Just follow the signs to our apt homes"
+      },
+      {
+        "src": "17.jpg",
+        "description": ""
+      },
+      {
+        "src": "18.jpg",
+        "description": "Short drive to the beach"
+      },
+      {
+        "src": "19.jpg",
+        "description": ""
+      },
+      {
+        "src": "20.jpg",
+        "description": "New in 2020 - our Greenhouse for all to enjoy"
+      },
+      {
+        "src": "21.jpg",
+        "description": "We're kid and dog friendly"
+      },
+      {
+        "src": "22.jpg",
+        "description": ""
+      },
+      {
+        "src": "23.jpg",
+        "description": "Relax on our new waterfront decks and tie your boat up to it for free"
+      },
+      {
+        "src": "24.jpg",
+        "description": "Families love our location to everything"
+      },
+      {
+        "src": "25.jpg",
+        "description": "Free use of Paddle boards for our guests"
+      },
+      {
+        "src": "26.jpg",
+        "description": "Hideaway Greenhouse - Sit, sip and relax. Enjoy wonderful views"
+      },
+      {
+        "src": "27.jpg",
+        "description": ""
+      },
+      {
+        "src": "28.jpg",
+        "description": "View from dock towards Bungalow (far right corner of bldg.)"
+      },
+      {
+        "src": "29.jpg",
+        "description": "Sugar sand beaches a short drive away"
+      },
+      {
+        "src": "30.jpg",
+        "description": "1/2 mile to Hathaway Bridge which connects to Panama City Beach"
+      }
+    ]
+  },
+  {
+    "title": "THE BIRD NEST",
+    "subtitle": "Enjoy the bird’s eye view from this 1300 sq. ft. 2nd floor apartment",
+    "text": "Water views and majestic old oaks nearby give you the feel of being in a tree house.  1 bedroom, queen, 1 bathroom, fully furnished kitchen, dining area, and TV viewing area.A new walkout deck to grill and relax.\n\n$110 per night + $65 cleaning fee and 5% Fl visitor tax",
+    "airBnbLink": "https://www.airbnb.com/rooms/26119112?source_impression_id=p3_1572452000_9FcDNfXltIKSPoZj",
+    "imageBaseUrl": "listings/bird_nest/",
+    "images": []
+  },
+  {
+    "title": "THE WINE CELLAR",
+    "subtitle": "This quiet, cosy apartment has its own private entrance",
+    "text": "This  650 sq. ft. features comfy bedroom, bathroom and full kitchen.You are encouraged to relax on our new decks withbay views and frequent dolphin sightings.\n\n$85 per night + $55 cleaning fee and 5% Fl visitor tax",
+    "airBnbLink": "https://www.airbnb.com/rooms/26467591?source_impression_id=p3_1572452305_D0ISkaJQ2X2Enwg%2B",
+    "imageBaseUrl": "listings/wine_cellar/",
+    "images": [
+      {
+        "src": "1.jpg",
+        "description": "Wine Cellar at The Hideaway-A Hidden Gem Getaway"
+      },
+      {
+        "src": "2.jpg",
+        "description": "Welcome to the Wine Cellar"
+      },
+      {
+        "src": "3.jpg",
+        "description": "Sparkling white Kitchen with everything you need"
+      },
+      {
+        "src": "4.jpg",
+        "description": "Kitchen view from sitting area"
+      },
+      {
+        "src": "5.jpg",
+        "description": "Cozy up and watch tv with a glass of wine"
+      },
+      {
+        "src": "6.jpg",
+        "description": "Left side of Sitting area"
+      },
+      {
+        "src": "7.jpg",
+        "description": "Queen bed"
+      },
+      {
+        "src": "8.jpg",
+        "description": "Uncork & Unwind here at the Wine Cellar"
+      },
+      {
+        "src": "9.jpg",
+        "description": "Our NEW wine barrel table from a French winery! Enjoy your glass of vino here"
+      },
+      {
+        "src": "10.jpg",
+        "description": "Bath with shower"
+      },
+      {
+        "src": "11.jpg",
+        "description": "Relaxing sitting area outside your door"
+      },
+      {
+        "src": "12.jpg",
+        "description": "Look for sign at end of private street"
+      },
+      {
+        "src": "13.jpg",
+        "description": "Lagoon from the water. Great for kayaking, paddle board/boat. Even some fishing/crabbing"
+      },
+      {
+        "src": "14.jpg",
+        "description": "Property views complete with banana trees"
+      },
+      {
+        "src": "15.jpg",
+        "description": "Our Welcome Sign that greets you"
+      },
+      {
+        "src": "16.jpg",
+        "description": ""
+      },
+      {
+        "src": "17.jpg",
+        "description": "We're kid & dog friendly"
+      },
+      {
+        "src": "18.jpg",
+        "description": ""
+      },
+      {
+        "src": "19.jpg",
+        "description": "We have 2 roomy waterfront decks to enjoy"
+      },
+      {
+        "src": "20.jpg",
+        "description": "Bring your boat and be steps away from your door"
+      },
+      {
+        "src": "21.jpg",
+        "description": ""
+      },
+      {
+        "src": "22.jpg",
+        "description": "Relaxing views from our waterfront bay properties"
+      },
+      {
+        "src": "23.jpg",
+        "description": "FREE use of paddleboards & kayaks"
+      },
+      {
+        "src": "24.jpg",
+        "description": ""
+      },
+      {
+        "src": "25.jpg",
+        "description": "Covered parking and vending machines for your convenience"
+      },
+      {
+        "src": "26.jpg",
+        "description": "New for 2020 - The Hideaway Greenhouse"
+      },
+      {
+        "src": "27.jpg",
+        "description": ""
+      },
+      {
+        "src": "28.jpg",
+        "description": "Guests can sit, sip and relax in our greenhouse"
+      },
+      {
+        "src": "29.jpg",
+        "description": "1/2 mile to Hathaway Bridge which connects to Panama City Beach"
+      }
+    ]
+  },
+  {
+    "title": "THE PELICAN’S NEST",
+    "subtitle": "This charming studio is our newest addition",
+    "text": "1 queen, 1 bathroom, kitchenette with cooktop and microwave.\nYou will enjoy the  large picture window facing the water and smart tv.A walkout to your new deck to grill and relax.\n\n$75 per night +$60 cleaning fee and a 5% Fl visitor tax",
+    "airBnbLink": "https://www.airbnb.com/rooms/33831042?source_impression_id=p3_1572452584_fGJZHxXjKbdKG7Uj",
+    "imageBaseUrl": "listings/pelicans_nest/",
+    "images": [
+      {
+        "src": "1.jpg",
+        "description": "Upper deck lounge area looking towards The Pelican front door"
+      },
+      {
+        "src": "2.jpg",
+        "description": "Cozy and comfy 2nd floor efficiency plus deck with Lagoon Views"
+      },
+      {
+        "src": "3.jpg",
+        "description": "View from tv towards bathroom doorway"
+      },
+      {
+        "src": "4.jpg",
+        "description": "View from bed toward kitchenette area with nice counter seating"
+      },
+      {
+        "src": "5.jpg",
+        "description": "sitting area looking towards exit door"
+      },
+      {
+        "src": "6.jpg",
+        "description": "Kitchenette"
+      },
+      {
+        "src": "7.jpg",
+        "description": "Mini kitchen sink area"
+      },
+      {
+        "src": "8.jpg",
+        "description": "Lots of storage for your things in custom cabinets"
+      },
+      {
+        "src": "9.jpg",
+        "description": "Luxury Queen Bed and Bedding"
+      },
+      {
+        "src": "10.jpg",
+        "description": "Queen bed. Plus storage cabinet for all your clothing"
+      },
+      {
+        "src": "11.jpg",
+        "description": "View from bathroom door looking toward main area of this efficiency apt"
+      },
+      {
+        "src": "12.jpg",
+        "description": "View from bathroom into living/sleeping area"
+      },
+      {
+        "src": "13.jpg",
+        "description": "View of bed looking towards bathroom"
+      },
+      {
+        "src": "14.jpg",
+        "description": "More pelican touches and a fact filled manual for our guests"
+      },
+      {
+        "src": "15.jpg",
+        "description": "Roomy bath w/all your essentials provided"
+      },
+      {
+        "src": "16.jpg",
+        "description": "The front door mat greets you"
+      },
+      {
+        "src": "17.jpg",
+        "description": "Pelican themed décor to enjoy"
+      },
+      {
+        "src": "18.jpg",
+        "description": "New bathroom with shower"
+      },
+      {
+        "src": "19.jpg",
+        "description": "Bath with shower"
+      },
+      {
+        "src": "20.jpg",
+        "description": "Relax on your deck and enjoy grilling just steps from your front door"
+      },
+      {
+        "src": "21.jpg",
+        "description": "The deck view from your front door"
+      },
+      {
+        "src": "22.jpg",
+        "description": "Majestic old oaks viewed from deck"
+      },
+      {
+        "src": "23.jpg",
+        "description": ""
+      },
+      {
+        "src": "24.jpg",
+        "description": ""
+      },
+      {
+        "src": "25.jpg",
+        "description": "Enjoy our great views"
+      },
+      {
+        "src": "26.jpg",
+        "description": ""
+      },
+      {
+        "src": "27.jpg",
+        "description": "2 different decks to enjoy & boats are welcome"
+      },
+      {
+        "src": "28.jpg",
+        "description": "Watch out for the dolphins"
+      },
+      {
+        "src": "29.jpg",
+        "description": "Enjoy fishing - we provide the poles"
+      },
+      {
+        "src": "30.jpg",
+        "description": "Bicycles available to use for free"
+      },
+      {
+        "src": "31.jpg",
+        "description": "Free use of kayaks and paddleboards to our guests"
+      },
+      {
+        "src": "32.jpg",
+        "description": ""
+      },
+      {
+        "src": "33.jpg",
+        "description": "New in 2020 - The Hideaway Greenhouse for our guests to enjoy"
+      },
+      {
+        "src": "34.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "THE MAGNOLIA",
+    "subtitle": "Located in Downtown Historic old Panama City",
+    "text": "Just bicycling distance from Panama City Marina to catch the sunset and marine traffic.5 minutes from historical St Andrew’s shops, restaurants and outdoor activities.  15 minutes from Panama City Beach. 4 guests, 1 bedroom, 1 bath.\n\n$85 per night + $65 cleaning fee and 5% Fl visitor tax.",
+    "airBnbLink": "https://www.airbnb.com/rooms/24578786?source_impression_id=p3_1572454277_JJkC%2FzTJ8TmNX3IK",
+    "imageBaseUrl": "listings/magnolia/",
+    "images": [
+      {
+        "src": "1.jpg",
+        "description": "TV viewed from kitchen"
+      },
+      {
+        "src": "2.jpg",
+        "description": "Magnolia in old town Panama City"
+      },
+      {
+        "src": "3.jpg",
+        "description": "Magnolia - front door (lower level)"
+      },
+      {
+        "src": "4.jpg",
+        "description": "Kitchen view"
+      },
+      {
+        "src": "5.jpg",
+        "description": "Enjoy the granite breakfast bar in kitchen"
+      },
+      {
+        "src": "6.jpg",
+        "description": "View from living area towards kitchen and dining"
+      },
+      {
+        "src": "7.jpg",
+        "description": "Dinette area"
+      },
+      {
+        "src": "8.jpg",
+        "description": "Full size appliances"
+      },
+      {
+        "src": "9.jpg",
+        "description": "Comfy queen bed"
+      },
+      {
+        "src": "10.jpg",
+        "description": "Master bed room with TV"
+      },
+      {
+        "src": "11.jpg",
+        "description": "Bath room"
+      },
+      {
+        "src": "12.jpg",
+        "description": "Outside sitting area, plus 2 bicycles for your use"
+      },
+      {
+        "src": "13.jpg",
+        "description": "Panama City Downtown Marina 1 mile walking distance for great shops, restaurants, fishing, sunsets. Or drive"
+      },
+      {
+        "src": "14.jpg",
+        "description": "Panama City Beach"
+      },
+      {
+        "src": "15.jpg",
+        "description": "Sunsets on Panama City Beach"
+      },
+      {
+        "src": "16.jpg",
+        "description": "We pamper our guests with special touches including great local information with our Guest Manual"
+      },
+      {
+        "src": "17.jpg",
+        "description": "Queen sofa sleeper"
+      },
+      {
+        "src": "18.jpg",
+        "description": "Panama City Garden Club Nice walking trail with enclosed dog park (small & large) few blocks away"
+      },
+      {
+        "src": "19.jpg",
+        "description": "Magnolia - Kitchen looking towards living area"
+      },
+      {
+        "src": "20.jpg",
+        "description": "Magnolia - full bath"
+      },
+      {
+        "src": "21.jpg",
+        "description": "tv in bedroom"
+      },
+      {
+        "src": "22.jpg",
+        "description": ""
+      },
+      {
+        "src": "23.jpg",
+        "description": ""
+      },
+      {
+        "src": "24.jpg",
+        "description": ""
+      },
+      {
+        "src": "25.jpg",
+        "description": ""
+      },
+      {
+        "src": "26.jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "title": "THE HERON COTTAGE",
+    "subtitle": "Cozy, cheery Florida cottage home newly remodeled",
+    "text": "Fenced backyard.Walking distance from our Hideaway resort property.  2 queen bedrooms, plus a queen sleeper sofa, 2 bathrooms, a fully furnished kitchen, dining area.Enjoy views from 2 waterfront decks just a short walk from this home.\n\n$120 per night + $75 cleaning fee and 5% Fl visitor tax",
+    "airBnbLink": "https://www.airbnb.com/rooms/42306671?source_impression_id=p3_1593466028_3S28xtic968txM7e",
+    "imageBaseUrl": "listings/heron_cottage/",
+    "images": [
+      {
+        "src": "1.jpg",
+        "description": "Two bedroom cottage close to main streets connecting you to the outside world, when desired but offering a private stand alone home, adorable interiors, away from the traffic of people. This is our 7th new listing as a Super Host"
+      },
+      {
+        "src": "2.jpg",
+        "description": "Quaint covered porch entry"
+      },
+      {
+        "src": "3.jpg",
+        "description": "Front view"
+      },
+      {
+        "src": "4.jpg",
+        "description": "Side view of home from street corner. Park at your door"
+      },
+      {
+        "src": "5.jpg",
+        "description": "Screened back porch"
+      },
+      {
+        "src": "6.jpg",
+        "description": "Screened back porch"
+      },
+      {
+        "src": "7.jpg",
+        "description": "Screened back porch"
+      },
+      {
+        "src": "8.jpg",
+        "description": "Full size eat-in kitchen"
+      },
+      {
+        "src": "9.jpg",
+        "description": "Kitchen stocked with all the pans, dishes, and cooking items"
+      },
+      {
+        "src": "10.jpg",
+        "description": "Dining area off from kitchen, shared with the living area"
+      },
+      {
+        "src": "11.jpg",
+        "description": "Living room"
+      },
+      {
+        "src": "12.jpg",
+        "description": "Comfy living room with HD flat screen TV"
+      },
+      {
+        "src": "13.jpg",
+        "description": "1st Bedroom, comfy new queen bed"
+      },
+      {
+        "src": "14.jpg",
+        "description": "Bedroom 2"
+      },
+      {
+        "src": "15.jpg",
+        "description": "Another view of bathroom"
+      },
+      {
+        "src": "16.jpg",
+        "description": ""
+      },
+      {
+        "src": "17.jpg",
+        "description": "Bathroom with shower"
+      },
+      {
+        "src": "18.jpg",
+        "description": ""
+      },
+      {
+        "src": "19.jpg",
+        "description": ""
+      },
+      {
+        "src": "20.jpg",
+        "description": ""
+      },
+      {
+        "src": "21.jpg",
+        "description": "Enjoy 2 docks on The Hideaway property"
+      },
+      {
+        "src": "22.jpg",
+        "description": "Free use of paddleboards and kayaks"
+      },
+      {
+        "src": "23.jpg",
+        "description": ""
+      },
+      {
+        "src": "24.jpg",
+        "description": "Relax and enjoy watching for the dolphins"
+      },
+      {
+        "src": "25.jpg",
+        "description": "The Hideaway property has stunning views for all to enjoy"
+      },
+      {
+        "src": "26.jpg",
+        "description": "Lagoon and bay views just a short walk from the home"
+      },
+      {
+        "src": "27.jpg",
+        "description": "White sandy beaches are a short drive away"
+      },
+      {
+        "src": "28.jpg",
+        "description": "Back view of lagoon behind home looking towards part of The Hideaway property"
+      },
+      {
+        "src": "29.jpg",
+        "description": "High tide picture, low tide the canal becomes un-navigable at this point"
+      }
+    ]
+  }
+]
