@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thehideawaypanamacity-react/precache-manifest.1ba48e1a290cfaf8be44fc3462985eb9.js"
+  "/thehideawaypanamacity-react/precache-manifest.1a8e569e4650367dd2a26cdc35627c6f.js"
 );
 
 self.addEventListener('message', (event) => {
