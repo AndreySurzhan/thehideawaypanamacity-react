@@ -245,19 +245,133 @@
         }
       ]
     },
-    {
-      "images": [
-        {
-          "src": "1.jpg"
-        },
-        {
-          "src": "1.jpg"
-        }
-      ],
-      "title": "THE BUNGALOW",
+    { "title": "THE BUNGALOW",
       "subtitle": "Beautiful bayou sunsets can be seen from the large living room of this ground floor private bungalow",
       "text": "This 900 sq. ft. bungalow 1 bedroom with a queen bed,1 bathroom, furnished kitchen and breakfast bar.Access to a covered deck with grill.\n\n$120 per night +$75 cleaning fee and 5% Fl visitor tax",
-      "airBnbLink": "https://www.airbnb.com/rooms/19863678?source_impression_id=p3_1572451848_dxMyHscNdoevrio5"
+      "airBnbLink": "https://www.airbnb.com/rooms/19863678?source_impression_id=p3_1572451848_dxMyHscNdoevrio5",
+      "imageBaseUrl": "listings/bungalow/",
+      "images": [
+        {
+          "src": "1.jpg",
+          "description": "The Bungalow, lower level right side of waterfront home"
+        },
+        {
+          "src": "2.jpg",
+          "description": "Front entryway to Bungalow"
+        },
+        {
+          "src": "3.jpg",
+          "description": "Just inside front door of Bungalow"
+        },
+        {
+          "src": "4.jpg",
+          "description": "Full kitchen with granite counter bar"
+        },
+        {
+          "src": "5.jpg",
+          "description": "Living area with large TV. Room has views to the water"
+        },
+        {
+          "src": "6.jpg",
+          "description": "Cozy bedroom"
+        },
+        {
+          "src": "7.jpg",
+          "description": "Relaxing bedroom with comfy queen mattress"
+        },
+        {
+          "src": "8.jpg",
+          "description": "Full bath"
+        },
+        {
+          "src": "9.jpg",
+          "description": "Bath"
+        },
+        {
+          "src": "10.jpg",
+          "description": "Beautiful tropical views outside from this dining area"
+        },
+        {
+          "src": "11.jpg",
+          "description": "Back porch of Bungalow with views out to the lagoon/bay"
+        },
+        {
+          "src": "12.jpg",
+          "description": "Enjoy your private covered porch furniture with a view included"
+        },
+        {
+          "src": "13.jpg",
+          "description": "Comfy outside furniture by your back door"
+        },
+        {
+          "src": "14.jpg",
+          "description": ""
+        },
+        {
+          "src": "15.jpg",
+          "description": "Views of lagoon & bay right out your French doors"
+        },
+        {
+          "src": "16.jpg",
+          "description": "Just follow the signs to our apt homes"
+        },
+        {
+          "src": "17.jpg",
+          "description": ""
+        },
+        {
+          "src": "18.jpg",
+          "description": "Short drive to the beach"
+        },
+        {
+          "src": "19.jpg",
+          "description": ""
+        },
+        {
+          "src": "20.jpg",
+          "description": "New in 2020 - our Greenhouse for all to enjoy"
+        },
+        {
+          "src": "21.jpg",
+          "description": "We're kid and dog friendly"
+        },
+        {
+          "src": "22.jpg",
+          "description": ""
+        },
+        {
+          "src": "23.jpg",
+          "description": "Relax on our new waterfront decks and tie your boat up to it for free"
+        },
+        {
+          "src": "24.jpg",
+          "description": "Families love our location to everything"
+        },
+        {
+          "src": "25.jpg",
+          "description": "Free use of Paddle boards for our guests"
+        },
+        {
+          "src": "26.jpg",
+          "description": "Hideaway Greenhouse - Sit, sip and relax. Enjoy wonderful views"
+        },
+        {
+          "src": "27.jpg",
+          "description": ""
+        },
+        {
+          "src": "28.jpg",
+          "description": "View from dock towards Bungalow (far right corner of bldg.)"
+        },
+        {
+          "src": "29.jpg",
+          "description": "Sugar sand beaches a short drive away"
+        },
+        {
+          "src": "30.jpg",
+          "description": "1/2 mile to Hathaway Bridge which connects to Panama City Beach"
+        }
+      ]    
     },
     {
       "images": [
