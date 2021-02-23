@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/thehideawaypanamacity-react/static/css/main.ef14a349.chunk.css",
-    "main.js": "/thehideawaypanamacity-react/static/js/main.5c3e0f92.chunk.js",
-    "main.js.map": "/thehideawaypanamacity-react/static/js/main.5c3e0f92.chunk.js.map",
+    "main.js": "/thehideawaypanamacity-react/static/js/main.9533bcff.chunk.js",
+    "main.js.map": "/thehideawaypanamacity-react/static/js/main.9533bcff.chunk.js.map",
     "runtime-main.js": "/thehideawaypanamacity-react/static/js/runtime-main.49a0a8ad.js",
     "runtime-main.js.map": "/thehideawaypanamacity-react/static/js/runtime-main.49a0a8ad.js.map",
     "static/css/2.b553dc6b.chunk.css": "/thehideawaypanamacity-react/static/css/2.b553dc6b.chunk.css",
-    "static/js/2.45f80f77.chunk.js": "/thehideawaypanamacity-react/static/js/2.45f80f77.chunk.js",
-    "static/js/2.45f80f77.chunk.js.map": "/thehideawaypanamacity-react/static/js/2.45f80f77.chunk.js.map",
+    "static/js/2.573a1d36.chunk.js": "/thehideawaypanamacity-react/static/js/2.573a1d36.chunk.js",
+    "static/js/2.573a1d36.chunk.js.map": "/thehideawaypanamacity-react/static/js/2.573a1d36.chunk.js.map",
     "index.html": "/thehideawaypanamacity-react/index.html",
-    "precache-manifest.1a8e569e4650367dd2a26cdc35627c6f.js": "/thehideawaypanamacity-react/precache-manifest.1a8e569e4650367dd2a26cdc35627c6f.js",
+    "precache-manifest.78cc85056fcd35254d596eb656096c70.js": "/thehideawaypanamacity-react/precache-manifest.78cc85056fcd35254d596eb656096c70.js",
     "service-worker.js": "/thehideawaypanamacity-react/service-worker.js",
     "static/css/2.b553dc6b.chunk.css.map": "/thehideawaypanamacity-react/static/css/2.b553dc6b.chunk.css.map",
     "static/css/main.ef14a349.chunk.css.map": "/thehideawaypanamacity-react/static/css/main.ef14a349.chunk.css.map",
-    "static/js/2.45f80f77.chunk.js.LICENSE.txt": "/thehideawaypanamacity-react/static/js/2.45f80f77.chunk.js.LICENSE.txt",
+    "static/js/2.573a1d36.chunk.js.LICENSE.txt": "/thehideawaypanamacity-react/static/js/2.573a1d36.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/thehideawaypanamacity-react/static/media/1.f5dc7db3.jpg",
     "static/media/10.jpg": "/thehideawaypanamacity-react/static/media/10.e49c9994.jpg",
     "static/media/11.jpg": "/thehideawaypanamacity-react/static/media/11.e12337c6.jpg",
@@ -64,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.49a0a8ad.js",
     "static/css/2.b553dc6b.chunk.css",
-    "static/js/2.45f80f77.chunk.js",
+    "static/js/2.573a1d36.chunk.js",
     "static/css/main.ef14a349.chunk.css",
-    "static/js/main.5c3e0f92.chunk.js"
+    "static/js/main.9533bcff.chunk.js"
   ]
 }

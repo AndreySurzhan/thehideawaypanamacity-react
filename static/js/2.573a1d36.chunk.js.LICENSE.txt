@@ -16,6 +16,16 @@ object-assign
   http://jedwatson.github.io/classnames
 */
 
+/*!
+* rrule.js - Library for working with recurrence rules for calendar dates.
+* https://github.com/jakubroztocil/rrule
+*
+* Copyright 2010, Jakub Roztocil and Lars Schoning
+* Licenced under the BSD licence.
+* https://github.com/jakubroztocil/rrule/blob/master/LICENCE
+*
+*/
+
 /** @license React v0.19.1
  * scheduler.production.min.js
  *
