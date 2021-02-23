@@ -3,18 +3,14 @@ import 'react-date-range/dist/theme/default.css'; // theme css file
 import './MyCalendar.css';
 import React from 'react';
 
-import { Calendar } from 'react-date-range';
+import { DateRange  } from 'react-date-range';
+
  
-export class MyCalendar extends React.Component {
-  handleSelect(date){
-    console.log(date); // native Date object
-  }
-  render(){
+export function MyCalendar(props) {
     return (
-      <Calendar className="my-calendar"
-        date={new Date()}
-        onChange={this.handleSelect}
+      <DateRange className="my-calendar"
+        onPreviewChange ={() =>{}}
+        ranges={props.ranges}
       />
     )
-  }
 }

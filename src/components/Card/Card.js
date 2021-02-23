@@ -15,9 +15,8 @@ export default function Card(props) {
 
   function getImage(image, key) {
     return (
-      <div>
+      <div key={key}>
         <img
-          key={key}
           style={image.style ?? {}}
           className={getPropsClassNames(image.className)}
           src={image.src}

@@ -3,11 +3,39 @@ import Button from '../../components/Button/Button';
 import Card from '../../components/Card/Card';
 import { MyCalendar } from '../../components/MyCalendar/MyCalendar';
 import Section from '../../components/Section/Section'
-import galleryCards from '../../assets/json/listings.json'
+import listingsData from '../../assets/json/listings.json'
+import { getCalendarEventsFromUrl } from '../../utils/calendarData';
 
 export default class HomePage extends React.Component {
     constructor(props, context) {
         super(props);
+        this.state = {
+            listingsData: listingsData
+        };
+    };
+
+    async componentDidMount() {
+        // request to get calendar data from airBnb etc. should be done through proxy server as drirect request failes with CORS
+        const baseCorsAnyWhereUrl = 'https://my-cors-proxy-anywhere.herokuapp.com/';
+        const promises = this.state.listingsData
+            .map(await this.setListingsCalendarRange(baseCorsAnyWhereUrl));
+
+        this.setState({
+            listingsData: await Promise.all(promises)
+        })
+    }
+
+    setListingsCalendarRange = async (baseCorseAnyWereUrl) => async listing => {
+        const airBnbCalendarRanges = await getCalendarEventsFromUrl(`${baseCorseAnyWereUrl}${listing.airBnbCalendarLink}`, null, {
+            color: '#FF5722'
+        });
+        const vrboCalendarRanges = await getCalendarEventsFromUrl(`${baseCorseAnyWereUrl}${listing.vrboCalendarLink}`, null, {
+            color: '#02537e'
+        });
+
+        listing.calendarRanges = airBnbCalendarRanges.concat(vrboCalendarRanges);
+
+        return listing;
     }
 
     setAdditionalImageProps = listing => image => (
@@ -25,25 +53,24 @@ export default class HomePage extends React.Component {
         }
     );
 
-
     render() {
         // eslint-disable-next-line no-unused-expressions
         return (
             <div>
                 <Section title="Our Listings">
                     {
-                        galleryCards
+                        this.state.listingsData
                             .map(this.setAdditionalListingProps)
-                            .map((card, key) => (
+                            .map((card, i) => (
                                 <Card
-                                    key={key}
+                                    key={i}
                                     title={card.title}
                                     subtitle={card.subtitle}
                                     carousel={true}
                                     images={card.images}
                                     text={card.text}
                                     style={card.style}>
-                                    <MyCalendar></MyCalendar>
+                                    <MyCalendar ranges={card.calendarRanges}></MyCalendar>
                                     <Button url={card.airBnbLink}>Book Here!</Button>
                                 </Card>)
                             )
