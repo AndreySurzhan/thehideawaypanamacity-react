@@ -5,6 +5,7 @@ import { MyCalendar } from '../../components/MyCalendar/MyCalendar';
 import Section from '../../components/Section/Section'
 import listingsData from '../../assets/json/listings.json'
 import { getCalendarEventsFromUrl } from '../../utils/calendarData';
+import './HomePage.css';
 
 export default class HomePage extends React.Component {
     constructor(props, context) {
@@ -71,7 +72,18 @@ export default class HomePage extends React.Component {
                                     text={card.text}
                                     style={card.style}>
                                     <MyCalendar ranges={card.calendarRanges}></MyCalendar>
-                                    <Button url={card.airBnbLink}>Book Here!</Button>
+                                    <div className="book-button-group">
+                                        {card.airBnbLink ? 
+                                            <Button url={card.airBnbLink}>
+                                                <img src={require("../../assets/icons/airbnb_w.svg")}></img>
+                                                Book On AirBnb
+                                            </Button> : null}
+                                        {card.vrboLink ? 
+                                            <Button className="vrbo" url={card.vrboLink}>
+                                                <img src={require("../../assets/icons/vrbo_w.svg")}></img>
+                                                Book On VRBO
+                                            </Button> : null}
+                                    </div>
                                 </Card>)
                             )
                     }

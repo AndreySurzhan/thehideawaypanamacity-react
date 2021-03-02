@@ -35,6 +35,7 @@ export default class AboutPage extends React.Component {
                         image={card.image}
                         text={card.text}
                         style={card.style}>
+                        <h4>For price and rent text 850-890-4808</h4>
                     </Card>
                 </Section>
             </div>

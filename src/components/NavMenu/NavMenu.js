@@ -10,9 +10,9 @@ export default function NavMenue(props) {
                 <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://www.linkedin.com/in/andreisurzhan">
+                    href="https://www.airbnb.com/users/140494398/listings">
                     <img className="social-icon"
-                        src={require("../../assets/icons/linkedin.svg")}
+                        src={require("../../assets/icons/airbnb.svg")}
                         alt="linkedin icon">
                     </img>
                 </a>
