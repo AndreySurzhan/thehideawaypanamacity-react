@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thehideawaypanamacity-react/static/css/main.6ca51179.chunk.css",
+    "main.css": "/thehideawaypanamacity-react/static/css/main.c49fbf15.chunk.css",
     "main.js": "/thehideawaypanamacity-react/static/js/main.c948129b.chunk.js",
     "main.js.map": "/thehideawaypanamacity-react/static/js/main.c948129b.chunk.js.map",
     "runtime-main.js": "/thehideawaypanamacity-react/static/js/runtime-main.49a0a8ad.js",
@@ -9,10 +9,10 @@
     "static/js/2.1826881b.chunk.js": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js",
     "static/js/2.1826881b.chunk.js.map": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js.map",
     "index.html": "/thehideawaypanamacity-react/index.html",
-    "precache-manifest.b13953dc4c58f3ee6113b43d26150726.js": "/thehideawaypanamacity-react/precache-manifest.b13953dc4c58f3ee6113b43d26150726.js",
+    "precache-manifest.0ab302b95e782e899a095a7aa5a2241b.js": "/thehideawaypanamacity-react/precache-manifest.0ab302b95e782e899a095a7aa5a2241b.js",
     "service-worker.js": "/thehideawaypanamacity-react/service-worker.js",
     "static/css/2.b553dc6b.chunk.css.map": "/thehideawaypanamacity-react/static/css/2.b553dc6b.chunk.css.map",
-    "static/css/main.6ca51179.chunk.css.map": "/thehideawaypanamacity-react/static/css/main.6ca51179.chunk.css.map",
+    "static/css/main.c49fbf15.chunk.css.map": "/thehideawaypanamacity-react/static/css/main.c49fbf15.chunk.css.map",
     "static/js/2.1826881b.chunk.js.LICENSE.txt": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/thehideawaypanamacity-react/static/media/1.f5dc7db3.jpg",
     "static/media/10.jpg": "/thehideawaypanamacity-react/static/media/10.e49c9994.jpg",
@@ -67,7 +67,7 @@
     "static/js/runtime-main.49a0a8ad.js",
     "static/css/2.b553dc6b.chunk.css",
     "static/js/2.1826881b.chunk.js",
-    "static/css/main.6ca51179.chunk.css",
+    "static/css/main.c49fbf15.chunk.css",
     "static/js/main.c948129b.chunk.js"
   ]
 }
