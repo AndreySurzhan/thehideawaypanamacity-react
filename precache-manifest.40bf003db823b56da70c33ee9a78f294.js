@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "822b9d4fd54455df92e1d6a201e10a46",
+    "revision": "4d393cadb3ed175dab0fa7c7199d2f59",
     "url": "/thehideawaypanamacity-react/index.html"
   },
   {
-    "revision": "4f023f41c0374a12e716",
+    "revision": "bcfff1d1931345a3c27f",
     "url": "/thehideawaypanamacity-react/static/css/2.b553dc6b.chunk.css"
   },
   {
-    "revision": "0f468ff2ae3b4353e86e",
-    "url": "/thehideawaypanamacity-react/static/css/main.05e2bddb.chunk.css"
+    "revision": "d7b46b85532317a2092b",
+    "url": "/thehideawaypanamacity-react/static/css/main.b772faa6.chunk.css"
   },
   {
-    "revision": "4f023f41c0374a12e716",
-    "url": "/thehideawaypanamacity-react/static/js/2.756f94e3.chunk.js"
+    "revision": "bcfff1d1931345a3c27f",
+    "url": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js"
   },
   {
     "revision": "1f4c6b73d857b11fbd7c4d9e47674e40",
-    "url": "/thehideawaypanamacity-react/static/js/2.756f94e3.chunk.js.LICENSE.txt"
+    "url": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f468ff2ae3b4353e86e",
-    "url": "/thehideawaypanamacity-react/static/js/main.7498caac.chunk.js"
+    "revision": "d7b46b85532317a2092b",
+    "url": "/thehideawaypanamacity-react/static/js/main.f0e24dbb.chunk.js"
   },
   {
     "revision": "af4d437cb7ac39fb8f24",
@@ -952,6 +952,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thehideawaypanamacity-react/static/media/9.eafbba25.jpg"
   },
   {
+    "revision": "63223b85651546c0e8b66eb2602fba39",
+    "url": "/thehideawaypanamacity-react/static/media/airbnb.63223b85.svg"
+  },
+  {
+    "revision": "1f356edadd7c91cfd4a90491ef5d0910",
+    "url": "/thehideawaypanamacity-react/static/media/airbnb_w.1f356eda.svg"
+  },
+  {
     "revision": "f2a1cd3a51daaa3116a8dedf4109a754",
     "url": "/thehideawaypanamacity-react/static/media/chuck_about.f2a1cd3a.jpg"
   },
@@ -964,7 +972,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thehideawaypanamacity-react/static/media/header.7040c22e.jpg"
   },
   {
-    "revision": "89dcd6955d20dc3183df9d8ba408312c",
-    "url": "/thehideawaypanamacity-react/static/media/linkedin.89dcd695.svg"
+    "revision": "c09ca21359308df6dc2bf8cc7dfdb1a4",
+    "url": "/thehideawaypanamacity-react/static/media/vrbo_w.c09ca213.svg"
   }
 ]);
