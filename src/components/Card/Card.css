@@ -23,8 +23,7 @@
 }
 
 .card-content > h3, h4 {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin: 1rem;
 }
 
 .card-content > p {
@@ -45,8 +44,7 @@
     }
 
     .card-content > h3, h4 {
-        margin-top: 0.5rem;
-        margin-bottom: 0.5rem;
+        margin: 0.5rem;
     }
 }
 
