@@ -10,7 +10,6 @@
 
 .book-button-group .button {
     margin-right: 1rem;
-    max-width: 40%;
 }
 
 .book-button-group .button:last-child {
@@ -24,6 +23,5 @@
 
     .book-button-group .button {
         margin: 0 0 1rem 0;
-        max-width: 100%;
     }
 }

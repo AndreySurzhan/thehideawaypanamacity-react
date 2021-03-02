@@ -75,12 +75,12 @@ export default class HomePage extends React.Component {
                                     <div className="book-button-group">
                                         {card.airBnbLink ? 
                                             <Button url={card.airBnbLink}>
-                                                <img src={require("../../assets/icons/airbnb_w.svg")}></img>
+                                                <img alt="airbnb book button icon" src={require("../../assets/icons/airbnb_w.svg")}></img>
                                                 Book On AirBnb
                                             </Button> : null}
                                         {card.vrboLink ? 
                                             <Button className="vrbo" url={card.vrboLink}>
-                                                <img src={require("../../assets/icons/vrbo_w.svg")}></img>
+                                                <img alt="vrbo book button icon" src={require("../../assets/icons/vrbo_w.svg")}></img>
                                                 Book On VRBO
                                             </Button> : null}
                                     </div>
