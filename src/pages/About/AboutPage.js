@@ -1,21 +1,12 @@
 import React from 'react';
 import Card from '../../components/Card/Card';
 import Section from '../../components/Section/Section';
+import './AboutPage.css'
 
-const card =
-{
+const card = {
     image: {
         alt: "Chuck's About Me",
-        src: require("../../assets/images/chuck_about.jpg"),
-        style: {
-            borderRadius: '50%',
-            width: '20%',
-            margin: '1rem'
-        }
-    },
-    style: {
-        flexDirection: "column",
-        alignItems: "center"
+        src: require("../../assets/images/chuck_about.jpg")
     },
     title: "Hi I'm Chuck",
     text: `Hello, I am a property owner and long time builder. 
@@ -36,7 +27,7 @@ export default class AboutPage extends React.Component {
     render() {
         // eslint-disable-next-line no-unused-expressions
         return (
-            <div>
+            <div id="about-me">
                 <Section title="About Me">
                     <Card
                         title={card.title}

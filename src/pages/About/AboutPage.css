@@ -1,0 +1,25 @@
+#about-me .card {
+    flex-direction: column;
+    align-items: center;
+}
+
+#about-me .card img {
+    border-radius: 50%;
+    width: 20%;
+    margin: 1rem;
+}
+
+
+#about-me .card-content {
+    max-width: 50%;
+}
+
+#about-me .card-content > p {
+    white-space: normal;
+}
+
+@media only screen and (max-width: 1078px){
+    #about-me .card-content {
+        max-width: 100%;
+    }
+}

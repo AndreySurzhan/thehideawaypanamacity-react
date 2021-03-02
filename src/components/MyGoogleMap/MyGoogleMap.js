@@ -1,34 +1,18 @@
 import React from 'react';
-import GoogleMap  from 'google-map-react';
+import './MyGoogleMap.css';
+
+
 export default function MyGoogleMap(props) {
-    const renderMarkers = (map, maps) => 
-        new maps.Marker({
-                position: { lat: props.position.lat, lng: props.position.lng },
-                map,
-                lable: props.title
-            });
-
   return (
-      <div id="google-map-container">
-        <GoogleMap          
-          // bootstrapURLKeys={{ key: /* YOUR KEY HERE */ }}
-          options={getMapOptions(props)}
-          zoom={props.zoom}
-          center={props.center}
-          onGoogleApiLoaded={({map, maps}) => renderMarkers(map, maps)}
-        >
-        </GoogleMap>
-      </div>
+    <div id="google-map-container">
+      <iframe
+        title="google maps"
+        frameBorder="0"
+        style={{border:0}}
+        loading="lazy"
+        allowFullScreen
+        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNSbo-BsBbb-gLh4-SGFHFHd-2-nFgSH8&q=2307+Mound+Ave,+Panama+City,+FL+32405">
+      </iframe>
+    </div>
   );
-}
-
-const getMapOptions = (props) => (maps) => {
-
-    return {    
-        mapTypeControl: true,
-        mapTypeControlOptions: {
-            style: maps.MapTypeControlStyle.DROPDOWN_MENU,
-            position: maps.ControlPosition.TOP_LEFT
-        }
-    };
 }
