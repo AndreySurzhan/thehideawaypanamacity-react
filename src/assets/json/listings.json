@@ -938,6 +938,10 @@
         "description": "Side view of home from street corner. Park at your door"
       },
       {
+        "src": "5.1.jpg",
+        "description": "Front view"
+      },
+      {
         "src": "5.jpg",
         "description": "Screened back porch"
       },
@@ -980,6 +984,10 @@
       {
         "src": "15.jpg",
         "description": "Another view of bathroom"
+      },
+      {
+        "src": "16.1.jpg",
+        "description": "Bathroom with shower"
       },
       {
         "src": "16.jpg",
