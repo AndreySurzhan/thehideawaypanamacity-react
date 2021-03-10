@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/thehideawaypanamacity-react/static/css/main.c49fbf15.chunk.css",
-    "main.js": "/thehideawaypanamacity-react/static/js/main.c948129b.chunk.js",
-    "main.js.map": "/thehideawaypanamacity-react/static/js/main.c948129b.chunk.js.map",
+    "main.js": "/thehideawaypanamacity-react/static/js/main.96b1266c.chunk.js",
+    "main.js.map": "/thehideawaypanamacity-react/static/js/main.96b1266c.chunk.js.map",
     "runtime-main.js": "/thehideawaypanamacity-react/static/js/runtime-main.49a0a8ad.js",
     "runtime-main.js.map": "/thehideawaypanamacity-react/static/js/runtime-main.49a0a8ad.js.map",
     "static/css/2.b553dc6b.chunk.css": "/thehideawaypanamacity-react/static/css/2.b553dc6b.chunk.css",
-    "static/js/2.1826881b.chunk.js": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js",
-    "static/js/2.1826881b.chunk.js.map": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js.map",
+    "static/js/2.dfec6f7f.chunk.js": "/thehideawaypanamacity-react/static/js/2.dfec6f7f.chunk.js",
+    "static/js/2.dfec6f7f.chunk.js.map": "/thehideawaypanamacity-react/static/js/2.dfec6f7f.chunk.js.map",
     "index.html": "/thehideawaypanamacity-react/index.html",
-    "precache-manifest.0ab302b95e782e899a095a7aa5a2241b.js": "/thehideawaypanamacity-react/precache-manifest.0ab302b95e782e899a095a7aa5a2241b.js",
+    "precache-manifest.23e70f3c9aad5d27b938ffb2fa786d0e.js": "/thehideawaypanamacity-react/precache-manifest.23e70f3c9aad5d27b938ffb2fa786d0e.js",
     "service-worker.js": "/thehideawaypanamacity-react/service-worker.js",
     "static/css/2.b553dc6b.chunk.css.map": "/thehideawaypanamacity-react/static/css/2.b553dc6b.chunk.css.map",
     "static/css/main.c49fbf15.chunk.css.map": "/thehideawaypanamacity-react/static/css/main.c49fbf15.chunk.css.map",
-    "static/js/2.1826881b.chunk.js.LICENSE.txt": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js.LICENSE.txt",
+    "static/js/2.dfec6f7f.chunk.js.LICENSE.txt": "/thehideawaypanamacity-react/static/js/2.dfec6f7f.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/thehideawaypanamacity-react/static/media/1.f5dc7db3.jpg",
     "static/media/10.jpg": "/thehideawaypanamacity-react/static/media/10.e49c9994.jpg",
     "static/media/11.jpg": "/thehideawaypanamacity-react/static/media/11.e12337c6.jpg",
     "static/media/12.jpg": "/thehideawaypanamacity-react/static/media/12.f22b3f71.jpg",
     "static/media/13.jpg": "/thehideawaypanamacity-react/static/media/13.f8724708.jpg",
     "static/media/14.jpg": "/thehideawaypanamacity-react/static/media/14.e8aee1c3.jpg",
-    "static/media/15.jpg": "/thehideawaypanamacity-react/static/media/15.e6bb91f0.jpg",
+    "static/media/15.jpg": "/thehideawaypanamacity-react/static/media/15.f513c1a1.jpg",
+    "static/media/16.1.jpg": "/thehideawaypanamacity-react/static/media/16.1.61eba5fa.jpg",
     "static/media/16.jpg": "/thehideawaypanamacity-react/static/media/16.f976c140.jpg",
     "static/media/17.jpg": "/thehideawaypanamacity-react/static/media/17.f976c140.jpg",
     "static/media/17.jpeg": "/thehideawaypanamacity-react/static/media/17.43157760.jpeg",
@@ -51,6 +52,7 @@
     "static/media/33.jpg": "/thehideawaypanamacity-react/static/media/33.bda485a5.jpg",
     "static/media/34.jpg": "/thehideawaypanamacity-react/static/media/34.c0ce9b8e.jpg",
     "static/media/4.jpg": "/thehideawaypanamacity-react/static/media/4.fd0d0014.jpg",
+    "static/media/5.1.jpg": "/thehideawaypanamacity-react/static/media/5.1.09e5c499.jpg",
     "static/media/5.jpg": "/thehideawaypanamacity-react/static/media/5.fc926f3e.jpg",
     "static/media/6.jpg": "/thehideawaypanamacity-react/static/media/6.d2a177b8.jpg",
     "static/media/7.jpg": "/thehideawaypanamacity-react/static/media/7.d5035b93.jpg",
@@ -66,8 +68,8 @@
   "entrypoints": [
     "static/js/runtime-main.49a0a8ad.js",
     "static/css/2.b553dc6b.chunk.css",
-    "static/js/2.1826881b.chunk.js",
+    "static/js/2.dfec6f7f.chunk.js",
     "static/css/main.c49fbf15.chunk.css",
-    "static/js/main.c948129b.chunk.js"
+    "static/js/main.96b1266c.chunk.js"
   ]
 }

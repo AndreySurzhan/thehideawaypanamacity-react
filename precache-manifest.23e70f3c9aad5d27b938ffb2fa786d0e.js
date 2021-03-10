@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a46d6cf79508bd1540e44af796bd42e4",
+    "revision": "f834a97ca509fdf02509f36a1c1d71d2",
     "url": "/thehideawaypanamacity-react/index.html"
   },
   {
-    "revision": "bcfff1d1931345a3c27f",
+    "revision": "afe13fbf736a1cf3729c",
     "url": "/thehideawaypanamacity-react/static/css/2.b553dc6b.chunk.css"
   },
   {
-    "revision": "a34ffac905f973e60e52",
+    "revision": "b55e89b01a990af0c659",
     "url": "/thehideawaypanamacity-react/static/css/main.c49fbf15.chunk.css"
   },
   {
-    "revision": "bcfff1d1931345a3c27f",
-    "url": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js"
+    "revision": "afe13fbf736a1cf3729c",
+    "url": "/thehideawaypanamacity-react/static/js/2.dfec6f7f.chunk.js"
   },
   {
     "revision": "1f4c6b73d857b11fbd7c4d9e47674e40",
-    "url": "/thehideawaypanamacity-react/static/js/2.1826881b.chunk.js.LICENSE.txt"
+    "url": "/thehideawaypanamacity-react/static/js/2.dfec6f7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a34ffac905f973e60e52",
-    "url": "/thehideawaypanamacity-react/static/js/main.c948129b.chunk.js"
+    "revision": "b55e89b01a990af0c659",
+    "url": "/thehideawaypanamacity-react/static/js/main.96b1266c.chunk.js"
   },
   {
     "revision": "af4d437cb7ac39fb8f24",
@@ -224,10 +224,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thehideawaypanamacity-react/static/media/14.e8aee1c3.jpg"
   },
   {
-    "revision": "4cb82717ff79d74270285c9d457f5728",
-    "url": "/thehideawaypanamacity-react/static/media/15.4cb82717.jpg"
-  },
-  {
     "revision": "8254ab8923c589bd04d10191bc6227d5",
     "url": "/thehideawaypanamacity-react/static/media/15.8254ab89.jpg"
   },
@@ -254,6 +250,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e6bb91f0e431ce7277069055ec10b9a6",
     "url": "/thehideawaypanamacity-react/static/media/15.e6bb91f0.jpg"
+  },
+  {
+    "revision": "f513c1a1bf27fdf4bcbba5ab7c3d6d65",
+    "url": "/thehideawaypanamacity-react/static/media/15.f513c1a1.jpg"
+  },
+  {
+    "revision": "61eba5fa35d8241e05e76171b464fc88",
+    "url": "/thehideawaypanamacity-react/static/media/16.1.61eba5fa.jpg"
   },
   {
     "revision": "118ca7e36fa9d839e0c37be73b14b71e",
@@ -760,16 +764,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thehideawaypanamacity-react/static/media/34.c0ce9b8e.jpg"
   },
   {
-    "revision": "01bd11af1e73a624d660aba14412704b",
-    "url": "/thehideawaypanamacity-react/static/media/4.01bd11af.jpg"
-  },
-  {
     "revision": "3b1851c85f6cfc3ca5b72771c0db2b1b",
     "url": "/thehideawaypanamacity-react/static/media/4.3b1851c8.jpg"
   },
   {
     "revision": "4596350fd4a7063579b5a5eb70d443bf",
     "url": "/thehideawaypanamacity-react/static/media/4.4596350f.jpg"
+  },
+  {
+    "revision": "567e0458c1104c389bb29cd9c0acc814",
+    "url": "/thehideawaypanamacity-react/static/media/4.567e0458.jpg"
   },
   {
     "revision": "c4646cc165760e3fcfb44d24d33bdd7b",
@@ -790,6 +794,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fd0d0014ae89749ebc3a2ccc27c9a72a",
     "url": "/thehideawaypanamacity-react/static/media/4.fd0d0014.jpg"
+  },
+  {
+    "revision": "09e5c49941269ceb5b4be777e427585c",
+    "url": "/thehideawaypanamacity-react/static/media/5.1.09e5c499.jpg"
   },
   {
     "revision": "1f9618f70c6998455f89c0a3578746c4",
