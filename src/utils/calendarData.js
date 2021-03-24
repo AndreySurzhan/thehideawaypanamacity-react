@@ -29,7 +29,8 @@ export async function getCalendarEventsFromUrl(url, requestOptions, rangeOptions
     try {
         const response = await axios.get(url, requestOptions);
         const parsedData = ical.parseICS(response.data);
-        const calendarData = Object.keys(parsedData)
+        const calendarData = Object
+            .keys(parsedData)
             .filter(isEventType(parsedData))
             .map(getCalendarRangeObj(parsedData, rangeOptions));
 
