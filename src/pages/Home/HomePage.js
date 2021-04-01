@@ -17,7 +17,7 @@ export default class HomePage extends React.Component {
 
     async componentDidMount() {
         // request to get calendar data from airBnb etc. should be done through proxy server as drirect request failes with CORS
-        const baseCorsAnyWhereUrl = 'https://my-cors-proxy-anywhere.herokuapp.com/';
+        const baseCorsAnyWhereUrl = 'https://thehideawaypanamacity.herokuapp.com/';
         const promises = this.state
             .listingsData
             .map(await this.setListingsCalendarRange(baseCorsAnyWhereUrl));
